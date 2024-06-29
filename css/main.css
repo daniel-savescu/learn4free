@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: white;
+    color: black;
+}
+
+a{
+    padding-left:10px;
+}
+
+
+
+.container-fluid{
+    padding:0;
+}
+
+.navbar-nav{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-toggler{
+    margin-right:10px;
+}
+
+.social{
+    margin:0px;
+    padding:0px;
+}
+
+
+#myInput {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid black;
+    margin-bottom: 12px;
+  }
+  
+  #myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #myUL li a {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block
+  }
+
+
